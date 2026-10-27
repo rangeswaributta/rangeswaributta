@@ -33,6 +33,8 @@ I have completed my Bachelor's Degree(BSC-MSCs): Vyshnavi Degree College in 2020
 ✨ Contact ✨
 
 * Email: rangaeshwaributta@gmail.com
+
 * LinkedIn: https://www.linkedin.com/in/rangeswari-butta-3a157a399?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 * GitHub: https://github.com/rangeswaributta
 
