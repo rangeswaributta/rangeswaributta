@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rangeswari Butta
 
-<!--
-**rangeswaributta/rangeswaributta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | Aspiring Data Analyst.
 
-Here are some ideas to get you started:
+I am an MCA graduate interested in Data Analytics and Web Development. I enjoy learning new technologies and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have completed my MCA: PVKK Institute of Technology in 2026
+I have completed my Bachelor's Degree(BSC-MSCs): Vyshnavi Degree College in 2020
+
+✨ Technical Skills✨
+
+* Excel
+* Power BI
+* SQL
+* Python
+
+ ✨ Projects ✨
+**Business Sales Dashboard**
+
+* Tool: Power BI
+* Analyze sales, revenue, and product performance.
+* Present insights using KPIs and interactive charts.
+
+
+✨ Currently Learning✨
+
+* Data Analytics
+* Power BI dashboards
+* SQL queries
+* Python programming
+* Web Development 
+
+✨ Contact ✨
+
+* Email: rangaeshwaributta@gmail.com
+* LinkedIn: https://www.linkedin.com/in/rangeswari-butta-3a157a399?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* GitHub: https://github.com/rangeswaributta
+
